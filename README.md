@@ -1,6 +1,9 @@
 # new_shp
 
-new_shp is a Python script for creating a custom shapefile based on a reference shapefile schema, and using the pixel space of a georeferenced raster
+new_shp is a Python script for creating a custom shapefile based on a reference shapefile schema, and using the pixel space of a georeferenced raster.
+
+Using square_polygons, create a shapefile with square features (in the image projection)
+Using plot_shp_over_tiff, plot a shapefile over the image raster in a png format
 
 ## Usage
 
